@@ -1,0 +1,53 @@
+[
+    {
+    "id": 1,
+    "producto":"ANIMALES TEJIDOS",
+    "descripcion": "Productos de alta calidad para guardar un recuerdo.",
+    "imagen": "tejido.jpg",
+    "precio": 25000
+    },
+    {
+    "id": 2,
+    "producto": "LLAVEROS",
+    "descripcion": "Hermosos llaveros, para uso personal o regalo.",
+    "imagen": "llaveros.jpg",
+    "precio": 8000
+    },
+    {
+        "id": 3,
+        "producto": "Sombreros tejidos",
+        "descripcion": "Hermosos sombreros, para uso personal o regalo.",
+        "imagen": "sombreros.jpg",
+        "precio": 6000
+        },
+        {
+            "id": 4,
+            "producto": "BUFANDAS TEJIDAS",
+            "descripcion": "Hermosas bufandas, para uso personal o regalo.",
+            "imagen": "bufandas.jpg",
+            "precio":10000
+            },
+            {
+                "id": 5,
+                "producto": "JARRAS EN BARRO",
+                "descripcion": "Hermosas jarras hechas en barro, para uso personal o regalo.",
+                "imagen": "jarra.jpg",
+                "precio":15000
+                },
+                {
+                    "id": 6,
+                    "producto": "JUGUETES EN MADERA",
+                    "descripcion": "Hermosos juguetes infantiles, para regalar un buen momento a nuestros niños.",
+                    "imagen": "juguetes.jpg",
+                    "precio":12000
+                    },
+                    {
+                        "id": 7,
+                        "producto": "RUANAS",
+                        "descripcion": "Hermosas ruanas, para uso personal o para regalar.",
+                        "imagen": "ruana.jpg",
+                        "precio":20000
+                        }     
+    
+   ]
+   
